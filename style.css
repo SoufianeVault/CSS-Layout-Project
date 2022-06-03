@@ -155,6 +155,7 @@ div > .about {
   font-family: 'Work Sans', arial, sans-serif;
 }
 #country {
+  text-decoration: underline;
   border: 0;
   background: transparent;
   font-size: 19px;
@@ -441,7 +442,7 @@ ul {
   box-shadow: 0 8px 16px 0 rgba(0, 0, 0, 0.2);
 }
 
-.Barcelona {
+ .Barcelona {
   display: flex;
   justify-content: space-around;
 }
@@ -471,7 +472,6 @@ ul {
   font-size: 18px;
   color: #747474;
   font-weight: 400;
-  text-decoration: underline;
 }
 .botton2:hover {
   text-decoration: none;
